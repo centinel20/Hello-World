@@ -1,3 +1,3 @@
 # Hello-World
-My First Repo
-Edited first repo
+My First Repo.
+Edited first repo.
